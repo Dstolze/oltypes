@@ -1,0 +1,78 @@
+{
+  "_args": [
+    [
+      "@types/openlayers@4.6.7",
+      "C:\\Users\\Raphaël Bunck\\Code\\Angular\\Checklisten"
+    ]
+  ],
+  "_from": "@types/openlayers@4.6.7",
+  "_id": "@types/openlayers@4.6.7",
+  "_inBundle": false,
+  "_integrity": "sha512-d5Xt0ZNMyy+3VHxsn4lxR6TIof/HJP4GZBQfxUpsu+4HyWUXOABRToHkIG/OicFLow0qKZJZ2maCsq8r2oKqxg==",
+  "_location": "/@types/openlayers",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "@types/openlayers@4.6.7",
+    "name": "@types/openlayers",
+    "escapedName": "@types%2fopenlayers",
+    "scope": "@types",
+    "rawSpec": "4.6.7",
+    "saveSpec": null,
+    "fetchSpec": "4.6.7"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/openlayers/-/openlayers-4.6.7.tgz",
+  "_spec": "4.6.7",
+  "_where": "C:\\Users\\Raphaël Bunck\\Code\\Angular\\Checklisten",
+  "contributors": [
+    {
+      "name": "Olivier Sechet",
+      "url": "https://github.com/osechet"
+    },
+    {
+      "name": "Bin Wang",
+      "url": "https://github.com/wb14123"
+    },
+    {
+      "name": "Junyoung Clare Jang",
+      "url": "https://github.com/ailrun"
+    },
+    {
+      "name": "Alexandre Melard",
+      "url": "https://github.com/mylen"
+    },
+    {
+      "name": "Chad Johnston",
+      "url": "https://github.com/iamthechad"
+    },
+    {
+      "name": "Dan Manastireanu",
+      "url": "https://github.com/danmana"
+    },
+    {
+      "name": "Yair Tawil",
+      "url": "https://github.com/yairtawil"
+    },
+    {
+      "name": "Pierre Marchand",
+      "url": "https://github.com/pierremarc"
+    }
+  ],
+  "dependencies": {},
+  "description": "TypeScript definitions for OpenLayers",
+  "license": "MIT",
+  "main": "",
+  "name": "@types/openlayers",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.0",
+  "typesPublisherContentHash": "340902fa1592f8120a03299acb35911303ea03bafb673da1e4a2a34611d30353",
+  "version": "4.6.7"
+}
